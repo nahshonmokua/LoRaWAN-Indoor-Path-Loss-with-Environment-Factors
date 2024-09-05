@@ -143,3 +143,10 @@ cython_debug/
 
 # OS files
 .DS_Store
+
+# Specific files
+combined_measurements_data.csv
+
+# Commonly Reused with confidential Info
+Data_Querying.ipynb
+
